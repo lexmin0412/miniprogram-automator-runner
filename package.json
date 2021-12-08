@@ -1,0 +1,23 @@
+{
+  "name": "miniprogram-automator-runner",
+  "version": "1.0.0",
+  "description": "微信小程序自动化运行示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexmin0412/miniprogram-automator-runner.git"
+  },
+  "keywords": [],
+  "author": "lexmin0412 <zhangle_media@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexmin0412/miniprogram-automator-runner/issues"
+  },
+  "homepage": "https://github.com/lexmin0412/miniprogram-automator-runner#readme",
+  "devDependencies": {
+    "miniprogram-automator": "^0.11.0"
+  }
+}
